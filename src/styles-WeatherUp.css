@@ -24,6 +24,9 @@ a {
   background-color: #f7effa;
   box-shadow: 5px 5px 5px #f7effa;
 }
+h6 {
+  text-align: center;
+}
 .weatherup {
   border: 1px solid #dadde1;
   margin: 20px auto;
@@ -60,8 +63,14 @@ a {
   color: #3abcb5;
   text-align: right;
 }
+.signature {
+  color: #eb25c0;
+  text-decoration: none;
+  background-color: #fff;
+  box-shadow: 5px 5px 5px #fff;
+}
 #cityName {
-  color: rgb(177, 26, 223);
+  color: #eb25c0;
   font-weight: 700;
   font-style: italic;
   font-size: 30px;
