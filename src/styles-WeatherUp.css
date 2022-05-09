@@ -26,6 +26,7 @@ a {
 }
 h6 {
   text-align: center;
+  margin-top: 20px;
 }
 .weatherup {
   border: 1px solid #dadde1;
@@ -35,7 +36,7 @@ h6 {
 }
 .col-4 {
   text-align: right;
-  font-size: 18px;
+  font-size: 15px;
   color: #8dc351;
   margin-right: 20px;
   margin: auto;
@@ -44,7 +45,7 @@ h6 {
   font-size: 20px;
   margin-left: 20px;
   margin: auto;
-  color: #4eae53;
+  color: #cd3bf1;
 }
 .cities {
   color: #624fce;
@@ -64,13 +65,13 @@ h6 {
   text-align: right;
 }
 .signature {
-  color: #eb25c0;
+  color: #cd3bf1;
   text-decoration: none;
   background-color: #fff;
-  box-shadow: 5px 5px 5px #fff;
+  box-shadow: none;
 }
 #cityName {
-  color: #eb25c0;
+  color: #f834de;
   font-weight: 700;
   font-style: italic;
   font-size: 30px;
